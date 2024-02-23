@@ -1,8 +1,12 @@
-/* main.c */
+//
+// Created by Alex Douhi 23.02.2024
+//
+
+// Client file
+
 #include <stdio.h>
 
-void main (void)
+int main (void)
 {
-	printf ("Hello World\n");
-	printf ("Goodbye World\n");
+	return 0;
 }
