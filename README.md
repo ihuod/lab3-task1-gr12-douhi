@@ -1,6 +1,6 @@
 # Overview
 
-It is public repository for accomplishing lab3 of the course "TP"
+It is a public repository for accomplishing lab3 of the course "TP"
 
 # Usage
 
